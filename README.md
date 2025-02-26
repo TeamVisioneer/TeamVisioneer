@@ -44,6 +44,8 @@ PrayU는 다음과 같은 기능을 제공합니다:
 - 사용자 인증 및 데이터 관리를 위한 API  
 - 기도 제목 성경 구절 매칭, 탈퇴, 외부 API 요청
 
+---
+
 
 📧 문의: team.visioneer15@gmail.com  
 🌎 공식 웹사이트: [www.prayu.site](https://www.prayu.site)  
