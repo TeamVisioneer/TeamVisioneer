@@ -17,7 +17,7 @@ PrayU는 다음과 같은 기능을 제공합니다:
 
 ## 📂 레포지토리  
 
-### 1️⃣ [PrayU-Web](https://github.com/your-repo-link) - 프론트엔드 (웹)  
+### 1️⃣ PrayU-Web - 프론트엔드 (웹)  
 **기술 스택**: React, TypeScript, Tailwind CSS, Supabase  
 
 **역할**:  
@@ -27,7 +27,7 @@ PrayU는 다음과 같은 기능을 제공합니다:
 
 ---
 
-### 2️⃣ [PrayU-App](https://github.com/your-repo-link) - 모바일 앱  
+### 2️⃣ PrayU-App - 모바일 앱  
 **기술 스택**: Flutter, Dart  
 
 **역할**:  
@@ -37,7 +37,7 @@ PrayU는 다음과 같은 기능을 제공합니다:
 
 ---
 
-### 3️⃣ [PrayU-API](https://github.com/your-repo-link) - 백엔드 API  
+### 3️⃣ PrayU-API - 백엔드 API  
 **기술 스택**: Supabase Edge Function, Typescript, Deno
 
 **역할**:  
